@@ -6,7 +6,7 @@ on:
 
 env:
   # Definisi variabel di satu tempat agar mudah diubah
-  IMAGE_NAME: "asia-southeast2-docker.pkg.dev/${{ secrets.GCP_PROJECT_ID }}/${{ secrets.ARTIFACT_REPO }}/pso"
+  IMAGE_NAME: "asia-southeast2-docker.pkg.dev/kelompok-7-pso-c/kelompok7psoc/pso"
   REGION: "asia-southeast2" 
 
 jobs:
